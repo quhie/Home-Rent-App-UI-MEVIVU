@@ -36,7 +36,7 @@ The project follows a standard Flutter project structure with separate directori
 
 ## Acknowledgements
 
-This project is powered by Gemini and Github Copilot.
+This project is supported by Gemini and Github Copilot.
 
 ## License
 figma: https://www.figma.com/design/8PIZTIETgWgSv9eLnFB6ig/[Freebie]-Home-Rent-App-UI-Design-(F12)?node-id=0-1&t=sp0imm3ZIka1sZcN-0
