@@ -1,6 +1,6 @@
 # Mevivu
 
-Mevivu is a real estate application developed using Flutter. It provides features like searching for properties, viewing property details, and more.
+Mevivu is a real estate application developed using Flutter. viewing property details, and more.
 
 ## Features
 
