@@ -34,9 +34,5 @@ The project follows a standard Flutter project structure with separate directori
 <img src="https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/20856906-4de7-48fd-99b6-4125947954a6" width="200">
 <img src="https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/f31c4a65-2f0b-4bdb-b90d-f12942448c1d" width="200">
 
-## Acknowledgements
-
-This project is supported by Gemini and Github Copilot.
-
 ## License
 figma: https://www.figma.com/design/8PIZTIETgWgSv9eLnFB6ig/[Freebie]-Home-Rent-App-UI-Design-(F12)?node-id=0-1&t=sp0imm3ZIka1sZcN-0
