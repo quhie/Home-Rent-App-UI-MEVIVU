@@ -30,10 +30,8 @@ The project follows a standard Flutter project structure with separate directori
 
 ## Screenshots
 ![Simulator Screenshot - iPhone 15 Pro - 2024-06-25 at 15 19 37](https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/41d96499-b7ae-4a88-946b-74374d60d686)
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-25 at 15 19 43](https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/999d29ca-506c-41aa-a653-9dc7a6bde0f5)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-06-25 at 15 19 43](https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/20856906-4de7-48fd-99b6-4125947954a6)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-06-25 at 15 20 10](https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/f31c4a65-2f0b-4bdb-b90d-f12942448c1d)
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-25 at 15 20 10](https://github.com/quhie/Home-Rent-App-UI-MEVIVU-/assets/166965797/8b6fdc3d-16dd-4264-9654-13cac3401297)
 
 
 ## Contributing
